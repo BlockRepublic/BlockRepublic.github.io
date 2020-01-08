@@ -1,5 +1,5 @@
 ## Software Development
-At Block Republic, we are skilled at creating web and mobile software experiences.
+At Decentra Apps, we are skilled at creating web and mobile software experiences.
 
 We build with:
 
